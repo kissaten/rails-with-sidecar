@@ -1,0 +1,1 @@
+web: rails java -jar build/libs/sidecar-1.0.jar --side-app-name=foobar --eureka-url=http://localhost:8761/eureka/
