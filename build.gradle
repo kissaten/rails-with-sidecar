@@ -12,12 +12,12 @@ apply plugin: 'spring-boot'
 apply plugin: 'idea'
 
 
-group 'de.ktel.microservices'
+group 'com.example'
 version '1.0'
 
 ext {
-    name = 'KTEL Sidecar Server'
-    description = 'Sidecar for KTEL'
+    name = 'Rails Sidecar Server'
+    description = 'Sidecar for Rails on Heroku'
     version='1.0.0-SNAPSHOT'
     sourceEncoding='UTF-8'
 }
